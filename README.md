@@ -1,9 +1,5 @@
-# WELCOME TO **PROJECT CEJ**
+# ANNYEONGHASEYO **PROJECT CEJ** IMNIDA 😎
 
-### identity crisis is real
+### Hello Philippines! We are here to promote our debut single, **IDENTITY: *A Crisis***.
 
-###### go guys
-
-### OUR MEMEBRS
-
-! 
+###### idnetifyyt crisis
