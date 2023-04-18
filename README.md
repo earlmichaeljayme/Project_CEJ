@@ -34,8 +34,6 @@
   
   <div align="center">![Grey](.png)
   
-  ##### <div align="center">Stage Name: Gelii
-  
   ##### <div align="center">Birth Name: Mich Angeline C. Emin
   
   ##### <div align="center">Nickname: Gel, Mochi
