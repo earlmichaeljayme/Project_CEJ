@@ -6,7 +6,7 @@
   
   ### <div align="center">**Gelii**
   
-  <div align="center">![Gelii](EMIN.png)
+<div align="center">![Gelii](EMIN.png)
   
   ##### <div align="center">Stage Name: Gelii
   
@@ -19,7 +19,7 @@
 
   ### <div align="center">**Cee**
   
-  <div align="center">![Cee](.png)
+  <div align="center">![Cee](.jpg)
   
   ##### <div align="center">Stage Name: Gelii
   
