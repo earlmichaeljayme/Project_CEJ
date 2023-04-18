@@ -31,7 +31,7 @@
   
   ##### <div align="center">Nickname: KC, Cee
   
-  ##### <div align="center">Hobbies: watching K-Dramas, Sleeping
+  ##### <div align="center">Hobbies: Watching K-Dramas, Sleeping
       
       
   ### <div align="center">**Grey**
