@@ -22,7 +22,7 @@
   ### <div align="center">**Cee**
   
   <p align="center">
-    <img src="EMIN.png">
+    <img src="COQUILLA.JPG">
   </p>
   
   ##### <div align="center">Stage Name: Cee
