@@ -10,8 +10,6 @@
     <img src="EMIN.png">
   </p>
   
-  ##### <div align="center">Stage Name: Gelii
-  
   ##### <div align="center">Birth Name: Mich Angeline C. Emin
   
   ##### <div align="center">Nickname: Gel, Mochi
@@ -25,8 +23,6 @@
     <img src="COQUILLA.JPG">
   </p>
   
-  ##### <div align="center">Stage Name: Cee
-  
   ##### <div align="center">Birth Name: Kristina Camylle R. Coquilla
   
   ##### <div align="center">Nickname: KC, Cee
@@ -39,8 +35,6 @@
   <p align="center">
     <img src="EMIN.png">
   </p>
-  
-  ##### <div align="center">Stage Name: Gelii
   
   ##### <div align="center">Birth Name: Mich Angeline C. Emin
   
