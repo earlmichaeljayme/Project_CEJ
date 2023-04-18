@@ -6,7 +6,9 @@
   
   ### <div align="center">**Gelii**
   
-<div align="center">![Gelii](EMIN.png)
+  <p align="center">
+    <img src="EMIN.png">
+  </p>
   
   ##### <div align="center">Stage Name: Gelii
   
@@ -19,20 +21,26 @@
 
   ### <div align="center">**Cee**
   
-  <div align="center">![Cee](.jpg)
+  <p align="center">
+    <img src="EMIN.png">
+  </p>
   
-  ##### <div align="center">Stage Name: Gelii
+  ##### <div align="center">Stage Name: Cee
   
-  ##### <div align="center">Birth Name: Mich Angeline C. Emin
+  ##### <div align="center">Birth Name: Kristina Camylle R. Coquilla
   
-  ##### <div align="center">Nickname: Gel, Mochi
+  ##### <div align="center">Nickname: KC, Cee
   
-  ##### <div align="center">Hobbies: Singing, Dancing, Sleeping
+  ##### <div align="center">Hobbies: watching K-Dramas, Sleeping
       
       
   ### <div align="center">**Grey**
   
-  <div align="center">![Grey](.png)
+  <p align="center">
+    <img src="EMIN.png">
+  </p>
+  
+  ##### <div align="center">Stage Name: Gelii
   
   ##### <div align="center">Birth Name: Mich Angeline C. Emin
   
