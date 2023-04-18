@@ -1,10 +1,10 @@
-# ANNYEONGHASEYO **PROJECT CEJ** IMNIDA 😎
+# ANNYEONGHASEYO **PROJECT CEJ** IMNIDA 🤗
 
 ### Hello Philippines! We are here to promote our debut single, **IDENTITY: *A Crisis***.
 
-### PROJECT CEJ Members Profile:
+### <div align="center">PROJECT CEJ Members Profile:
 
-#### **Cee**
+### <div align="center">**Cee**
 
 ##### Stage Name: Cee
 
