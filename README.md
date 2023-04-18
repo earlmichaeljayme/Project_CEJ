@@ -33,7 +33,7 @@
   ### <div align="center">**Grey**
   
   <p align="center">
-    <img src="JAYME.jpg">
+    <img src="JAYME.jfif">
   </p>
   
   ##### <div align="center">Birth Name: Earl Michael U. Jayme
